@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jordan Montes 👋
+# ¡Hola! Soy Jordan
 
 Estudiante de sistemas y desarrollador en formación, interesado en crear soluciones útiles con software.
 
